@@ -21,6 +21,8 @@ prompt_lib/
 
 ## 🚀 Quick Start
 
+**New here?** Check out the [**Quick Start Guide**](QUICKSTART.md) for a 2-minute introduction!
+
 1. **Browse by Category**: Navigate to the folder that matches your needs
 2. **Copy & Use**: Copy the prompt and customize it for your specific use case
 3. **Contribute**: Add your own prompts following the contribution guidelines
